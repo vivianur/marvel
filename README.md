@@ -16,7 +16,7 @@ Landing page feito com React consumindo API Marvel Developer Portal.
 5. Com isso feito execute o comando npm run dev
 
 
-## 🚀 Tecnologias
+## 🛠 Tecnologias
 
 - [HTML]
 - [CSS]
